@@ -1,4 +1,4 @@
-## Lua Kenai
+## Lua Kenai Jaxuka 
 
  **🌸 Front-end Dev / Artist / Digital Crafstman**
  <br>
