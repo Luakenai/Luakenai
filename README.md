@@ -39,12 +39,19 @@ ___
 
 
 <details>
-          <summary>
-                    <h3>🌸 My coding Journey</h3>
-          </summary>
-</details>
-    
 
+<summary🌸 My coding Journey</summary>
+
+### How it all started
+
+I was around 11 years old when I first discovered the world of coding, I wanted to edit and add images to my Neopet's page, so I learned a bit of HTML to do so. Around age 14-15 I discovered tumblr, and i that blogging site, there was the option to edit your own blog theme using Styles, I remember adding autoplayers for muisc, gifs, animations, edit the background and more!
+The last thing related to coding I did before I took it more seriously was attempting a Discord bot back in 2018, without any prior knowledge to javascript, it was qyuite the challenge! In the end, I was succesfull! It was an achievement I will never forget.
+
+### Taking the next step
+Around 2020 I started a course to become a fullstack developer, it took me a bit to get the hang of coding again , but once I did I started developing my first simple websites, not looking too proffessional, but I was proud of my progress. 
+Nowadays I have done another discord bot in honor of the old times, am working on professional websites for my portfolio, and taking classes for C# and racket as well.
+
+</details>
           
 
 
