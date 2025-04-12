@@ -36,7 +36,4 @@ ___
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" align="left" alt="VScode" style="padding-right:10px;"/>
 
 
-
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-          
           
