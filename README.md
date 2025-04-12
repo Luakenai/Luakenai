@@ -1,10 +1,13 @@
 ## Lua Kenai
 
  **🌸 Front-end Dev / Artist / Digital Crafstman**
+ <br>
 I am an indie front-end dev who is also an artist!
 A lot of how I learned how to code was to make applications or websites for my own brand/business (Fraymotiff).
 I have a degree in Art Bachelor and am taking classes of the Computer Science degree in the same university I got my first degree (UFRGS) and plan to get in the full course soon.
 ___
+
+<br>
 
 ## Languages and tools
 
