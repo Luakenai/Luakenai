@@ -35,6 +35,11 @@ ___
 
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" align="left" alt="VScode" style="padding-right:10px;"/>
 
+ <br><br> <br>
+
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luakenai)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>
 
 
