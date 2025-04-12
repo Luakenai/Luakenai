@@ -9,7 +9,34 @@ ___
 ## Languages and tools
 
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
           
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" align="left" alt="HTML" style="padding-right:10px;"/>
+
+
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" align="left" alt="CSS" style="padding-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+           width="40" height="40" align="left" alt="Javsacript" style="padding-right:10px;"/>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" align="left" alt="Typescript" style="padding-right:10px;"/>
+
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" width="40" height="40" align="left" alt="Discord.JS" style="padding-right:10px;"/>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" align="left" alt="Node.JS" style="padding-right:10px;"/>
+
+
+          
+
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" align="left" alt="Git" style="padding-right:10px;"/>
+
+ 
+
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" align="left" alt="VScode" style="padding-right:10px;"/>
+
+
+
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
           
           
